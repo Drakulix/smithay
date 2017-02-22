@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["BufferAccessError","Error that can occur when accessing an SHM buffer"]],"struct":[["BufferData","Details of the contents of a buffer relative to its pool"],["ShmGlobal","A global for handling SHM pool and buffers"],["ShmGlobalToken","An SHM global token"]]});
